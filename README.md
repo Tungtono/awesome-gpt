@@ -1,23 +1,41 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome applications, software, tools and built out of ChatGPT.
+> A curated list of awesome applications, software, tools built out of ChatGPT.
 
 > _Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Freeware][freeware icon] are free (as in free beer)._
 
 ## Table of Contents
 
+- [Official Resources](#official-resources)
 - [Applications](#applications)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
 - [Contribute](#contribute)
 
+## Official Resources
+
+- [ChatGPT App](https://chat.openai.com/)
+- [ChatGPT Docs](https://platform.openai.com/docs/)
+- [ChatGPT API Key](https://platform.openai.com/account/api-keys)
+
 ## Applications
+
+### Editor
+
+- [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI
+
+### Browser Extensions
+
+- [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - ChatGPT works alongside you on any webpage with the ChatGPT sidebar
+- [Lunabot](https://lunabot.ai/en/) - Use ChatGPT anywhere
+- [Luna](https://chrome.google.com/webstore/detail/luna-chatgpt-for-your-bro/bignkmclhhmhagjojehblmmaifljphfe) - ChatGPT Assistant for Chrome
 
 ## Miscellaneous
 
 ## Discussion Forums
 
 - [reddit](https://www.reddit.com/r/ChatGPT/)
+- [Discord](https://discord.com/invite/openai)
 
 ## Contribute
 
