@@ -8,7 +8,7 @@
 
 - [Official Resources](#official-resources)
 - [Applications](#applications)
-- [Miscellaneous](#miscellaneous)
+- [Alternatives](#alternatives)
 - [Discussion Forums](#discussion-forums)
 - [Contribute](#contribute)
 
@@ -20,10 +20,12 @@
 
 ## Applications
 
+### Standalone App
+
 - [Noty.ai](https://noty.ai/) - ChatGPT-powered meeting assistant
-
-### Editor
-
+- [Poe](https://poe.com/) - AI chatbot powered by GPT-4, GPT-3.5-turbo, Claude from Anthropic, and a variety of other bots.
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - Desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
+- [ChatGPT Desktop](https://github.com/lencx/ChatGPT) - Unofficial ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI
 
 ### Browser Extensions
@@ -38,9 +40,15 @@
 
 ### Others
 
-- [Unrobot](https://t.me/unrobot) - ChatGPT for Telegram
+- [Unrobot](https://yiyan.baidu.com/) - ChatGPT for Telegram
 
-## Miscellaneous
+### Alternatives
+
+- [Wenxin Yiyan](https://t.me/unrobot) - from Baidu
+- [Google Bard](https://bard.google.com/) - from Google
+- [Bing Chat](https://www.bing.com/new) - new Bing
+- [ChatSonic](https://writesonic.com/chat) - from WriteSonic (now powered by GTP-4)
+- [Youchat](https://you.com/) - AI search engine
 
 ## Discussion Forums
 
