@@ -20,6 +20,8 @@
 
 ## Applications
 
+- [Noty.ai](https://noty.ai/) - ChatGPT-powered meeting assistant
+
 ### Editor
 
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI
@@ -29,6 +31,14 @@
 - [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - ChatGPT works alongside you on any webpage with the ChatGPT sidebar
 - [Lunabot](https://lunabot.ai/en/) - Use ChatGPT anywhere
 - [Luna](https://chrome.google.com/webstore/detail/luna-chatgpt-for-your-bro/bignkmclhhmhagjojehblmmaifljphfe) - ChatGPT Assistant for Chrome
+- [Glasp](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb) - Access transcripts of YouTube videos, summarize YouTube videos, and ask ChatGPT
+- [Tactiq](https://tactiq.io/) - Real-time transcription of Google Meet, Zoom, MS Teams and Webex
+- [GptGO](https://chrome.google.com/webstore/detail/gptgo-chatgpt-from-any-ta/oeekolihnpojdigebjbhnkhbepjdoidi) - ChatGPT from any tab
+- [Blixem](https://chrome.google.com/webstore/detail/blixem-chatgpt-conversati/igcbaeppnhkchlkjlfeohlappemagalm) - ChatGPT conversational sidebar
+
+### Others
+
+- [Unrobot](https://t.me/unrobot) - ChatGPT for Telegram
 
 ## Miscellaneous
 
