@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome applications, software, tools built out of ChatGPT.
+> A curated list of awesome ChatGPT-related applications, software, tools, resouces.
 
 ## Table of Contents
 
@@ -39,6 +39,7 @@
 - [Repl.it](https://replit.com/) - Build software collaboratively with the power of AI, on any device, without spending a second on setup
 - [ChatFuel](https://chatfuel.com/ai) - AI chatbot builder
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
+- [Presentations.AI](https://www.presentations.ai/) - AI creates stunning decks from a simple text description
 - [Duolingo Max](https://blog.duolingo.com/duolingo-max/) - a learning experience powered by GPT-4
 - [ChatGPT Desktop](https://github.com/lencx/ChatGPT) - Unofficial ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI
@@ -49,6 +50,8 @@
 - [Chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Teach Anything](https://www.teach-anything.com/) - Teach you Anything in seconds
 - [MagickPen](https://magickpen.com/) - AI Writing Assistant, powered by ChatGTP
+- [Makelog](https://www.makelog.com/gpt3) - Automate your changelog
+  with ChatGPT
 - [Climate Policy Radar](https://climatepolicyradar.org/) - data science and AI-powered platform to search and explore thousands of climate change laws, policies and legal cases worldwide.
 - [Genius](https://fsys.app/) - ChatGPT-based translation service
 - [DoNotPay](https://donotpay.com/) - Using GPT-4 for One-Click Lawsuits Against Robocallers
@@ -61,9 +64,12 @@
 - [OpenGPT](https://open-gpt.app/en) - Create ChatGPT Application in seconds
 - [Autopailot](https://www.autopailot.com/) - Let AI reply to your customers' questions
 - [Watermelon](https://watermelon.co/) - Bring all your customer service channels, your team and your own GPT-4 chatbot in one place.
+- [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast.
+- [AI Dungeon](https://play.aidungeon.io/) - An AI generated text adventure that uses deep learning to create each adventure
 - [Unrobot](https://t.me/unrobot) - ChatGPT for Telegram
 - [Superflow](https://www.usesuperflow.com/) - Comment and Collaborate Directly On Your Website.
 - [Tome](https://beta.tome.app/) - Creating an entire presentation from a Wikipedia article using GPT-4
+- [HyperWrite](https://hyperwriteai.com/) - AI Writing Assistant
 
 ### Browser Extensions
 
@@ -80,6 +86,14 @@
 - [Glarity Summary](https://glarity.app/) - summarize YouTube videos and Google searches
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [TeamSmart AI](https://www.teamsmart.ai/) - The Chrome extension to boost productivity with AI
+
+### APIs & Clients
+
+- [revChatGPT](https://github.com/acheong08/ChatGPT) - Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
+- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API.
+- [chatgpt_api_dart](https://github.com/MisterJimson/chatgpt_api_dart) - Dart client for the unofficial ChatGPT API
+- [GoLang HTTP Client for ChatGPT](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go) - Golang client for official API of ChatGPT (GPT-3.5-turbo)
 
 ## Miscellaneous
 
