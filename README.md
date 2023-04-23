@@ -46,10 +46,10 @@
 - [CoCounsel](https://casetext.com/) - AI legal assistant powered by GPT-4
 - [Nuance](https://www.nuance.com/index.html) - Using GPT-4 for medical note-taking
 - [Steamship](https://www.steamship.com/) - Managed Backend for AI services
-- [Elicit](https://elicit.org/) - https://elicit.org/
+- [Elicit](https://elicit.org/) - uses language models to help you automate research workflows, like parts of literature review.
 - [Chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Teach Anything](https://www.teach-anything.com/) - Teach you Anything in seconds
-- [MagickPen](https://magickpen.com/) - AI Writing Assistant, powered by ChatGTP
+- [MagickPen](https://magickpen.com/) - AI Writing Assistant, powered by ChatGPT
 - [Makelog](https://www.makelog.com/gpt3) - Automate your changelog
   with ChatGPT
 - [Climate Policy Radar](https://climatepolicyradar.org/) - data science and AI-powered platform to search and explore thousands of climate change laws, policies and legal cases worldwide.
@@ -102,7 +102,7 @@
 - [Wenxin Yiyan](https://t.me/unrobot) - from Baidu
 - [Google Bard](https://bard.google.com/) - from Google
 - [Bing Chat](https://www.bing.com/new) - new Bing
-- [ChatSonic](https://writesonic.com/chat) - from WriteSonic (now powered by GTP-4)
+- [ChatSonic](https://writesonic.com/chat) - from WriteSonic (now powered by GPT-4)
 - [Youchat](https://you.com/) - AI search engine
 - [NotionAI](https://www.notion.so/product/ai) - From Notion
 
