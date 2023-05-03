@@ -33,6 +33,7 @@
 - [Virtual Volunteer by Be My Eyes](https://www.bemyeyes.com/) - Virtual Volunteer Tool Powered by OpenAI’s GPT-4
 - [Smart blocks](https://docs.retool.com/docs/retool-workflows-blocks?ref=retool.com#smart) - built-in support for Open AI's ChatGPT models in Retool
 - [SENSIBLE INSTRUCT](https://app.sensible.so/instruct/) - Transform documents into data with GPT-4
+- [BacklinkGPT](https://www.backlinkgpt.com/) - Supercharge Your Backlinks with AI-Powered Outreach
 - [Noty.ai](https://noty.ai/) - ChatGPT-powered meeting assistant
 - [Poe](https://poe.com/) - AI chatbot powered by GPT-4, GPT-3.5-turbo, Claude from Anthropic, and a variety of other bots.
 - [Reflect](https://reflect.app/) - An AI note-taking assistant powered by GPT-4
