@@ -71,6 +71,8 @@
 - [Superflow](https://www.usesuperflow.com/) - Comment and Collaborate Directly On Your Website.
 - [Tome](https://beta.tome.app/) - Creating an entire presentation from a Wikipedia article using GPT-4
 - [HyperWrite](https://hyperwriteai.com/) - AI Writing Assistant
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API.
+
 
 ### Browser Extensions
 
