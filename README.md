@@ -48,6 +48,7 @@
 - [Nuance](https://www.nuance.com/index.html) - Using GPT-4 for medical note-taking
 - [Steamship](https://www.steamship.com/) - Managed Backend for AI services
 - [Elicit](https://elicit.org/) - uses language models to help you automate research workflows, like parts of literature review.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [Chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Teach Anything](https://www.teach-anything.com/) - Teach you Anything in seconds
 - [MagickPen](https://magickpen.com/) - AI Writing Assistant, powered by ChatGPT
