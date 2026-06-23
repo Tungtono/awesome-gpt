@@ -67,6 +67,7 @@
 - [Watermelon](https://watermelon.co/) - Bring all your customer service channels, your team and your own GPT-4 chatbot in one place.
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast.
 - [AI Dungeon](https://play.aidungeon.io/) - An AI generated text adventure that uses deep learning to create each adventure
+- [Auferet](https://auferet.com/) - An AI game master for solo text adventures and tabletop RPGs that remembers your story long-term and reads your own uploaded lore.
 - [Unrobot](https://t.me/unrobot) - ChatGPT for Telegram
 - [Superflow](https://www.usesuperflow.com/) - Comment and Collaborate Directly On Your Website.
 - [Tome](https://beta.tome.app/) - Creating an entire presentation from a Wikipedia article using GPT-4
