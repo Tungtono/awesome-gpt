@@ -98,6 +98,8 @@
 
 ## Miscellaneous
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and ChatGPT integration for finding verified independent live-music venues across the US and Canada.
+
 ## Alternatives
 
 - [Wenxin Yiyan](https://t.me/unrobot) - from Baidu
